@@ -21,4 +21,4 @@ MyBatis Generator使用练习
 2、src/main/resources/mybatis/mybatis-generator/generatorConfig.xml<br>
 配置\<table tableName="users" domainObjectName="UsersBean"\>，设置DB表名和实体类名，一个\<table\>对应一张表
 
-
+3、IDEA中mavenProject-->pluguns-->mybatis-generator双击执行
